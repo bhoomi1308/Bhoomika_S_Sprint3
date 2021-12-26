@@ -1,0 +1,8 @@
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.csproj.AssemblyReference.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.AssemblyInfoInputs.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.AssemblyInfo.cs
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.csproj.CoreCompileInputs.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.RazorAssemblyInfo.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\BhoomikaSadashiva_Sprint2\obj\Debug\net5.0\BhoomikaSadashiva_Sprint2.RazorAssemblyInfo.cs

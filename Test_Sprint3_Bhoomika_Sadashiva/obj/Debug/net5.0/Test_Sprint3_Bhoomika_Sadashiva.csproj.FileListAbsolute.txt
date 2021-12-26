@@ -1,0 +1,5 @@
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\Test_Sprint3_Bhoomika_Sadashiva\obj\Debug\net5.0\Test_Sprint3_Bhoomika_Sadashiva.csproj.AssemblyReference.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\Test_Sprint3_Bhoomika_Sadashiva\obj\Debug\net5.0\Test_Sprint3_Bhoomika_Sadashiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\Test_Sprint3_Bhoomika_Sadashiva\obj\Debug\net5.0\Test_Sprint3_Bhoomika_Sadashiva.AssemblyInfoInputs.cache
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\Test_Sprint3_Bhoomika_Sadashiva\obj\Debug\net5.0\Test_Sprint3_Bhoomika_Sadashiva.AssemblyInfo.cs
+C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\Test_Sprint3_Bhoomika_Sadashiva\obj\Debug\net5.0\Test_Sprint3_Bhoomika_Sadashiva.csproj.CoreCompileInputs.cache

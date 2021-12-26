@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Test_Sprint3_Bhoomika_Sadashiva
+build_property.ProjectDir = C:\Users\Bhoomi\source\repos\BhoomikaSadashiva_Sprint2\Test_Sprint3_Bhoomika_Sadashiva\
